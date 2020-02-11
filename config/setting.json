@@ -1,0 +1,26 @@
+{
+  "config": {
+    "branch": "master",
+    "domain": "https://lihaowang.github.io",
+    "email": "lw1952@nyu.edu",
+    "platform": "github",
+    "repository": "lihaowang.github.io",
+    "token": "77d7f1d6e44cbafc7feaf712dfbc1e5bf41fc5eb",
+    "username": "LeoWang"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
